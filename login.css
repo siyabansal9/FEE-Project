@@ -12,6 +12,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     overflow: hidden;
+    background-color:#65B741;
 }
 .wrapper{
     display: flex;
@@ -33,7 +34,7 @@ body{
 }
 .nav-logo p{
     color: white;
-    font-size: 25px;
+    font-size: 40px;
     font-weight: 600;
 }
 .nav-menu ul{
@@ -121,6 +122,7 @@ header{
     text-align: center;
     padding: 10px 0 30px 0;
 }
+
 .two-forms{
     display: flex;
     gap: 10px;
